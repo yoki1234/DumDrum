@@ -65,6 +65,9 @@ footer {
 .red {
   color: red;
 }
+.set{
+  width: 100%;
+}
 
 .drum {
   outline: none;
